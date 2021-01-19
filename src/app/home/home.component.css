@@ -15,14 +15,17 @@
     -webkit-text-stroke-width: 3px; 
     -webkit-text-stroke-color: #000
 }
+
 #texto-feminismo{
     font-family: 'Courier New';
     font-size: 1.4rem;
-    color:black
+    color:black;
 }
+
 #feminismo{
     font-family:'Lucida Sans';
     font-weight: bold;
     color: #f72585;
-   
+    border: solid;
+	border-radius: 20px;
 }

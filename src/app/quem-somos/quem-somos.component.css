@@ -1,0 +1,43 @@
+#quem-somos{
+    background-color: #9f86c0;
+}
+#quem-somos-title{
+    font-weight: bold;
+    font-family: monospace;
+    color:  #f72585;
+    font-size: 50px;
+    -webkit-text-stroke-width: 3px; 
+    -webkit-text-stroke-color: #000
+}
+
+#card{
+    background-color: #9051e763;
+}
+#mensagem{
+    font-family: 'Courier New';
+    font-size: 1.1rem;
+    color:black;
+}
+
+#sub-titulo{
+    font-family:'Lucida Sans';
+    font-weight: bold;
+    color: #f72585;
+    border: solid;
+	border-radius: 20px;
+}
+#btnVoltar{
+    font-family: monospace;
+    border: solid;
+    border-radius: 5px;
+    background-color: #f72585;
+
+}
+#btnVoltar:hover{
+    background-color:#ef5777;
+    border-color: white;
+}
+#btnVoltar a{
+    text-decoration: none;
+    color: black;
+}

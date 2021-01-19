@@ -1,0 +1,44 @@
+#contato{
+    background-color: #9f86c0;
+}
+
+#formulario{
+    border: solid;
+    border-radius: 20px;
+}
+
+#btnEntrar{
+    font-family: monospace;
+    border: solid;
+    border-radius: 5px;
+    background-color: #f72585;
+
+}
+#btnEntrar:hover{
+    background-color:#ef5777;
+    border-color: purple;
+}
+
+#btnVoltar{
+    font-family: monospace;
+    border: solid;
+    border-radius: 5px;
+    background-color: #f72585;
+
+}
+#btnVoltar:hover{
+    background-color:#ef5777;
+    border-color: white;
+}
+#titulo{
+    font-weight: bold;
+    font-family: monospace;
+    color:  #f72585;
+    font-size: 50px;
+    -webkit-text-stroke-width: 3px; 
+    -webkit-text-stroke-color: #000
+}
+#btnVoltar a{
+    text-decoration: none;
+    color: black;
+}
