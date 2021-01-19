@@ -1,0 +1,15 @@
+#nav-bg{
+    background-color: #f72585;
+}
+
+.nav-link{
+    font-weight: bold;
+    border: solid;
+    border-radius: 5px;
+}
+.nav-link:hover{
+    background-color:#ef5777;
+    border-color: purple;
+    
+    
+}
